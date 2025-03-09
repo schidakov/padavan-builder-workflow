@@ -1,4 +1,4 @@
-name: Build firmware
+name: AC2100 build
 
 on:
   workflow_dispatch:
